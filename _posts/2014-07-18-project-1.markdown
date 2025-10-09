@@ -15,7 +15,7 @@
 #Duration: 6 months to 2 years (depending on individual cases)
 #Consultation: Includes smile assessment and personalized treatment plan
 
----
+
 layout: default
 modal-id: 1
 date: 2025-10-09
