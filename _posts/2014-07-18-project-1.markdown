@@ -34,5 +34,3 @@ benefits:
 duration: "6 months to 2 years (depending on individual cases)"
 consultation: "Includes smile assessment and personalized treatment plan"
 ---
-
----
