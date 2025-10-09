@@ -1,10 +1,10 @@
 # Site settings
-title: Freelancer
+title: SMILORA Dental Clinic
 email: smilora.online@gmail.com
 url: https://smilora.online
 description: "SMILORA Dental Clinic in Bangalore, led by Dr. Ayesha Fathima, a seasoned dentist with extensive experience in small clinics and large hospitals alike. We provide advanced, compassionate, and affordable dental care including cosmetic dentistry, implants, orthodontics, pediatric dentistry, and preventive treatments. At SMILORA, we blend expertise with technology to create healthy, confident smiles in a warm and patient-friendly environment.."
 keywords: "SMILORA, dental clinic Bangalore, dentist Bangalore, Dr. Ayesha Fathima, cosmetic dentistry, dental implants, orthodontics, pediatric dentistry, teeth whitening, root canal, smile design, affordable dentist Bangalore, best dental clinic Bangalore, RT Nagar dental clinic."
-skills: "cosmetic dentistry, dental implants, orthodontics, pediatric dentistry, teeth whitening, root canal, smile design, Scaling, Polishing"
+skills: We make dental visits stress-free and comfortable — blending advanced treatment with personalized attention.
 meta_author: Ahmed Tanzeem
 
 # Google webmaster tools
@@ -52,8 +52,8 @@ social:
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: 3481 Melrose Place
-  - line: Beverly Hills, CA 90210
+  - line: 97/107, Munireddypalya Main Road,
+  - line: J.C.Nagar, Bengaluru - 560006
 
 # Credits content
 credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
