@@ -26,9 +26,6 @@ permalink: /free-consultation/
     +1 (555) 123-4567</p>
 
     <p style="color:#334e68;margin-top:1rem;">If you'd like, call the number above to schedule directly or scan the QR code to open our booking page on your phone.</p>
-
-    <!-- Optional plain link to booking page (uncomment or replace) -->
-    <!-- <p><a href="https://your-booking-url.example" style="color:#0b6fa6;">Open booking page</a></p> -->
   </div>
 
   <div style="text-align:center;padding:1rem;border:1px solid #e6eef6;border-radius:8px;background:#fff;">
