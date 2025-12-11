@@ -3,7 +3,7 @@ layout: page
 title: "Free Consultation"
 permalink: /free-consultation/
 ---
-
+ 
 <!-- Hero section -->
 <section style="text-align:center;padding:3rem 1rem;background-color:#f8fafc;">
   <div style="max-width:1000px;margin:0 auto;">
