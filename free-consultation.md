@@ -39,3 +39,5 @@ permalink: /free-consultation/
 <section style="max-width:1000px;margin:1rem auto;padding:0 1rem;color:#334e68;">
   <p><small>Notes: Replace /img/hero-free-consultation-placeholder.jpg and /img/qr-placeholder.png with your actual hero image and generated QR code image (place them in the repo's img/ folder). This page is standalone and not linked from the navigation bar.</small></p>
 </section>
+
+<!-- redeploy-timestamp: 2025-12-12 14:00:00 UTC -->
