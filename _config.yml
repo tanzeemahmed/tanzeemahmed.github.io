@@ -1,9 +1,9 @@
 # Site settings
-title: SMILORA Dental Clinic
+title: SMILORA Dental Clinic | FREE 1st Consultation | Book your slot
 email: smilora.online@gmail.com
 url: https://smilora.online
 description: "SMILORA Dental Clinic in Bangalore, led by Dr. Ayesha Fathima, a seasoned dentist with extensive experience in small clinics and large hospitals alike. We provide advanced, compassionate, and affordable dental care including cosmetic dentistry, implants, orthodontics, pediatric dentistry, and preventive treatments. At SMILORA, we blend expertise with technology to create healthy, confident smiles in a warm and patient-friendly environment.."
-keywords: "SMILORA, dental clinic Bangalore, dentist Bangalore, Dr. Ayesha Fathima, cosmetic dentistry, dental implants, orthodontics, pediatric dentistry, teeth whitening, root canal, smile design, affordable dentist Bangalore, best dental clinic Bangalore, RT Nagar dental clinic."
+keywords: "SMILORA, dental clinic Bangalore, dentist Bangalore, Dr. Ayesha Fathima, cosmetic dentistry, dental implants, orthodontics, pediatric dentistry, teeth whitening, root canal, smile design, affordable dentist Bangalore, free consultation, free consultation near me, Munireddy palya dental clinic, JC Nagar dental clinic, Benson town dental clinic, Sultanpalya dental clinic, Marapaa garden dental clinic, chinnappa garden dental clinic, Rahmat nagar dental clinic, best dental clinic Bangalore, women dental clinic, muslim dental clinic, RT Nagar dental clinic."
 skills: We make dental visits stress-free and comfortable — blending advanced treatment with personalized attention.
 meta_author: Ahmed Tanzeem
 
@@ -39,17 +39,13 @@ footer:
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
-  - title: twitter
-    url: http://twitter.com/jekyllrb
-  - title: facebook
-    url:
   - title: instagram
-    url: 
+    url: https://www.instagram.com/smilora_dental_clinic/
 
 # Postal address (add as many lines as necessary)
 address:
   - line: 97/107, Munireddypalya Main Road,
-  - line: J.C.Nagar, Bengaluru - 560006,
+  - line: J.C.Nagar, opp. ZAM ZAM Bakery, Bengaluru - 560006,
   - line: Ph-9611388738
 
 # Credits content
